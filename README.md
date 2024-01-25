@@ -1,11 +1,13 @@
 
-*# Hi there! 👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mohamed Ebadah</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mo3badah&color=yellow" alt="Profile views" /> </p>
 
-I'm [Your Name], a passionate Java developer with a focus on building robust back-end systems and Restful APIs for SaaS solutions. 
+a passionate Java developer with a focus on building robust back-end systems and Restful APIs for SaaS solutions. 
 
 ## About Me
-- 💼 Currently working as a Java Developer
-- 🎓 Two years of experience in the industry
+- 💼 Currently working as a Back End Developer
+- 🎓 More Two years of experience in the industry
 - 🌐 [Personal Website/Blog](https://yourwebsite.com)
 - 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
 - 😄 Pronouns: He/Him
@@ -21,13 +23,25 @@ I'm [Your Name], a passionate Java developer with a focus on building robust bac
 - 💡 Contributed to a 36% average cost saving on SaaS solutions
 - 🎓 Certifications from Google, IBM, and Huawei
 
-## Portfolio
-- [GitHub Repositories](https://github.com/yourusername)
-- [Projects Showcase](https://yourwebsite.com/projects)
-
 ## Let's Connect
-- 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
-- 🌐 [Dev.to](https://dev.to/yourdevto)
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://twitter.com/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://youtube.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
+
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 👋
