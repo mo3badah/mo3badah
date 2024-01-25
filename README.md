@@ -1,6 +1,5 @@
-
-
-<img align="right" height="590em" src="https://api.daily.dev/devcards/09be2c79c5c5409cb4b18daef42f453a.png?r=h9t"/>
+[<a href="https://app.daily.dev/DailyDevTips"><img align="right" height="590em" src="https://api.daily.dev/devcards/09be2c79c5c5409cb4b18daef42f453a.png?r=h9t"/></a>
+](https://api.daily.dev/devcards/09be2c79c5c5409cb4b18daef42f453a.png?r=moa)
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mohamed Ebadah</h1>
 
 a passionate Java developer with a focus on building robust back-end systems and Restful APIs for SaaS solutions. 
