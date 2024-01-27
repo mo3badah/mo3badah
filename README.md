@@ -2,7 +2,7 @@
 ](https://api.daily.dev/devcards/09be2c79c5c5409cb4b18daef42f453a.png?r=moa)
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mohamed Ebadah</h1>
 
-a passionate Java developer with a focus on building robust back-end systems and Restful APIs for SaaS solutions. 
+a passionate Web developer with a focus on building robust back-end systems and Restful APIs for SaaS solutions. 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo3badah&color=blue" alt="Profile views" /> </p> 
 
