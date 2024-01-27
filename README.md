@@ -19,6 +19,6 @@ a passionate Java developer with a focus on building robust back-end systems and
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mo3badah&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mo3badah&theme=discord&no-frame=true&no-bg=true&margin-w=2)
 
 ---
