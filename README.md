@@ -1,5 +1,4 @@
-<a href="https://app.daily.dev/mo3badah"><img src="https://api.daily.dev/devcards/v2/zxhVFosiE0BwrQ9uVm5dZ.png?r=oke&type=default" width="356" alt="Mohamed Reda's Dev Card"/></a>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mohamed Ebadah</h1>
+<a href="https://app.daily.dev/mo3badah"><img src="https://api.daily.dev/devcards/v2/zxhVFosiE0BwrQ9uVm5dZ.png?r=oke&type=default" width="356" alt="Mohamed Reda's Dev Card"/></a><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mohamed Ebadah</h1>
 
 a passionate Web developer with a focus on building robust back-end systems and Restful APIs for SaaS solutions. 
 
